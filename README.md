@@ -1,16 +1,12 @@
-# adding_drawer
+# Drawer Example
 
-A new Flutter project.
+adding Drawer to Appbar in Flutter and tracing the selected index.
 
-## Getting Started
+## Screenshot
+![drawer](https://github.com/merihcavdar/adding_drawer/assets/84540989/2eff0413-d5fb-4b80-87d6-ff45d93c648c)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- Drawer
+- DrawerHeader
+- Navigator.pop(context)
+- selectedIndex
